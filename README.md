@@ -35,6 +35,7 @@ This notebook is part of my effort to build a **strong foundation** in Python by
 ## 🔜 Upcoming
 
 More notebooks coming soon on:
+- Os and file System
 - NumPy
 - Pandas
 - Matplotlib
