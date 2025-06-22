@@ -9,7 +9,7 @@ This project is part of my learning journey toward mastering Python for data-rel
 
 In this notebook, I’ve covered and demonstrated **core Python concepts** that form the foundation of data analysis and real-world problem-solving.
 
-### 🔹 Topics Covered:
+### ✅ 1. `new_python.ipynb`
 - String operations and built-in functions
 - Loops (for, while)
 - Exception handling using `try` / `except`
@@ -26,17 +26,27 @@ In this notebook, I’ve covered and demonstrated **core Python concepts** that 
 
 ---
 
+
 ## 💡 Purpose
 
 This notebook is part of my effort to build a **strong foundation** in Python by actively coding key features, testing behavior, and practicing hands-on logic.
 
 ---
 
+### ✅ 2. `numpy.ipynb`
+- Working with numerical data using NumPy
+- List to array conversion
+- Array operations and broadcasting
+- Matrix multiplication and performance comparison using `%%time`
+- Multi-dimensional arrays, data types (`dtype`)
+- File handling: `genfromtxt`, `savetxt`
+- Combining arrays with `np.concatenate`
+- Indexing, slicing, and array creation techniques
+
 ## 🔜 Upcoming
 
 More notebooks coming soon on:
 - Os and file System
-- NumPy
 - Pandas
 - Matplotlib
 - Real-world case studies
