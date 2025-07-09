@@ -43,11 +43,23 @@ This notebook is part of my effort to build a **strong foundation** in Python by
 - Combining arrays with `np.concatenate`
 - Indexing, slicing, and array creation techniques
 
+### ✅ 3. `Pandas.ipynb`
+
+- Retrieving CSV data with `urllib`
+- Reading data using `pd.read_csv()`
+- Exploring data: `.info()`, `.shape`, `[]`, `.at`, `.loc`, `head()`, `tail()`, `sample()`
+- Column operations: `copy`, adding new columns, dropping columns
+- Sorting data: single & multi-column sort
+- Working with dates: type conversion, `DatetimeIndex`
+- Aggregations: `mean()`, `groupby()`, `cumsum()`
+- Merging datasets: `merge()`
+- Plotting with Pandas
+
+
 ## 🔜 Upcoming
 
 More notebooks coming soon on:
 - Os and file System
-- Pandas
 - Matplotlib
 - Real-world case studies
 
